@@ -17,4 +17,4 @@ Iniciando o projeto
 ----
 Neste exemplo utilizaremos o xunity para nossos testes, você poderá estar utilizando este template com as classes e os testes ja implementados para adiantar o processo
 
-[Template testes de mutação](https://github.com/Eliandro-Freitas/Template_Testes_de_mutacao/tree/main)
+[Template testes de mutação](https://github.com/Eliandro-Freitas/Template_Testes_de_mutacao/tree/main) ou clonando diretamente pelo link https://github.com/Eliandro-Freitas/Template_Testes_de_mutacao.git
