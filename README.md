@@ -2,7 +2,7 @@
 
 Um pouco sobre a biblioteca
 ----
-Stryker.NET é uma biblioteca que oferece testes de mutação para .NET, ele permite que você teste seus testes inserindo bugs temporariamente, é importante lembrar que a biblioteca só pode ser usado para aplicações .net 5 e adiante
+Stryker.NET é uma biblioteca que oferece testes de mutação para .NET, ele permite que você teste seus testes unitários inserindo bugs temporariamente, é importante lembrar que a biblioteca só pode ser usado para aplicações .net 5 e adiante
 
 Sobre os testes
 ----
