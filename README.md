@@ -16,3 +16,17 @@ Os estados dos mutantes:
 Iniciando o projeto
 ----
 Neste exemplo utilizaremos o xunity para nossos testes, você poderá estar utilizando este [Template](https://github.com/Eliandro-Freitas/TemplateMutationTests.git) com as classes e os testes já implementadas para adiantar o processo ou clonando o projeto diretamente pelo link https://github.com/Eliandro-Freitas/TemplateMutationTests.git
+
+Adicionando a biblioteca
+----
+Com o template em mãos ou no seu projeto de preferência, entre no package manager console do visual studio ou entre na pasta com o cmd ou powerShell onde seu projeto principal foi criado e execute o comando
+
+```dotnet tool install -g dotnet-stryker```
+
+Executando o Stryker
+----
+No windows explorer navegue até onde está salvo o arquivo csproj do seu projeto de testes e digite o comando abaixo e de enter para executar
+
+```dotnet Stryker```
+
+Você verá uma janela como essa 
