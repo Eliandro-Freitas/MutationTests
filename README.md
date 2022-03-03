@@ -58,7 +58,7 @@ Com o template em mãos ou no seu projeto de preferência, entre no package mana
 
 ```dotnet tool install -g dotnet-stryker```
 
-E o Stryker
+E rodar o Stryker
 ----
 No windows explorer navegue até onde está salvo o arquivo csproj do seu projeto de testes e digite o comando ```dotnet Stryker``` e de enter para executar
 
@@ -77,7 +77,7 @@ Com o browser aberto teremos nosso relatório mostrando quantos mutantes foram c
 ![Projeto](Images/img-mutantes.png)
 
 
-### Ao selecionar a box de killed poderemos ver todas as alterações que foram feitas no código e que passaram nos nossos testes, cada bolinha verde mostrará uma alteração feita
+Ao selecionar a box de killed poderemos ver todas as alterações que foram feitas no código e que passaram nos nossos testes, cada bolinha verde mostrará uma alteração feita
 
 ![Projeto](Images/img-killed.png)
 
