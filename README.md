@@ -129,9 +129,8 @@ Com ele aberto ja teremos nosso relatório, mostrando todas as alterações feit
 
 Na imagem acima ja podemos ver que nenhum mutante sobreviveu, todos nossos testes passaram e nosso método está de acordo com nossa regra de negócio
 
-### Com isso finalizamos nosso projeto
-
-### Considerações finais
+Considerações finais
+---
 Nossos códigos nem sempre vão estar cobertos totalmente pelos testes, os testes de mutação podem nos ajudar a criar novos cenários e a ajudar o programador a prevenir possíveis bugs, aqui tivemos um exemplo simples, apenas para mostrar a biblioteca e falar um pouco sobre os testes de mutação, mas com projetos reais a quantidade de combinações criadas pode crescer muito, com isso criando vários cenários e ajudando o programados a melhorar os testes, vale lembrar que nem todas as alterações recomendadas quando um mutante sobrevive são as melhores para nossa regra de negócio, devemos saber analisar para utilizar a melhor recomendação
 
 Referências [Stryker.NET](https://stryker-mutator.io/docs/mutation-testing-elements/mutant-states-and-metrics/)
